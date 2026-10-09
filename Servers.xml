@@ -576,4 +576,28 @@
     <website_url>https://www.bartleskeet.com</website_url>
     <discord_url>https://discord.gg/VMqA5F5g9d</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>4ad24b17-4377-49bc-9092-28b7a98450a8</id>
+    <name>Empyrean Test (Retail)</name>
+    <description>An end of retail development test server for the Empyrean server emulator project.</description>
+    <emu>Empyrean</emu>
+    <server_host>retail.dereth.network</server_host>
+    <server_port>19000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url>https://dereth.network</website_url>
+    <discord_url></discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>c5a4f3a4-5d08-4a6c-ac68-eb78b3a2b237</id>
+    <name>Empyrean Test (Infiltration)</name>
+    <description>An Infiltration-era development test server for the Empyrean server emulator project.</description>
+    <emu>Empyrean</emu>
+    <server_host>infiltration.dereth.network</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development </status>
+    <website_url>https://dereth.network</website_url>
+    <discord_url></discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
